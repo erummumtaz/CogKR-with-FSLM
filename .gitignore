@@ -1,0 +1,22 @@
+# Private / identifiable data - never commit
+raw_data/
+Data_File_Collected_Data_for_KG_in_RDF_Triples.rdf
+original_mapping.csv
+*mapping*.csv
+*mapping*.txt
+
+# Model checkpoints / large binaries
+*.state
+*.pkl
+*.zip
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+*.pdf 
