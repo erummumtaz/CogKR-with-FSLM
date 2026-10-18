@@ -16,6 +16,18 @@ The model was trained on a de-identified dataset. The re-identification key is s
 
 
 
+\## 📊 Dataset Citation
+
+The dataset utilized in this project was originally collected and published in the following paper. The authors transformed the standard FSLSM questionnaire specifically for computing and algorithm education.
+
+
+
+\*   \*\*Paper:\*\* M. Yousuf, S. I. Jami, S. Wasi, and M. S. Siddiqui, "Knowledge Graph Representation of Felder-Silverman Learning Style Model for Computing Education," \*IEEE Access\*, 2024. 
+
+\*   \*\*Note:\*\* To respect privacy and intellectual property, the raw RDF dataset is not hosted in this repository. Please refer to the original publication or contact the original authors for dataset access.
+
+
+
 \## 📂 Repository Structure
 
 \- `CogKR\_Implementation\_train (5).ipynb`: Notebook used for preprocessing, knowledge graph construction, and training the RL agent.
